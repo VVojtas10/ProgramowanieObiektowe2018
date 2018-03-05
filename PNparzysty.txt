@@ -1,2 +1,2 @@
-Imię, Nazwisko, adres repozytorium
-Katarzyna Kudłacik https://github.com/KaKudlacik/WUNSZ-2-Geneza
+Wojciech Dase https://github.com/Pawelox/Turbodiodpol
+Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol
